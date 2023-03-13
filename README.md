@@ -32,6 +32,6 @@
 <h3 align="left">Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta001&hide_progress=true&locle=en" alt="anantgupta001"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantgupta001&show_icons=true&locale=en" alt="anantgupta001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantgupta001&show_icons=true" alt="anantgupta001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantgupta001&" alt="anantgupta001" /></p>
