@@ -18,20 +18,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/AnantGupta001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/_anantgupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anantgupta_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/guptaanant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guptaanant" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anantagarwal4946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anant gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anantagarwal4946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anant gupta" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/MKSNhtxR4U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MKSNhtxR4U" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AnantGupta001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant gupta_linkdin" height="30" width="40" /></a>
+<a href="https://instagram.com/_anantgupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anantgupta_instagram" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/guptaanant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guptaanant_chodechef" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anantagarwal4946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anant gupta_hackerrank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anantagarwal4946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anant gupta_leetcode" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/MKSNhtxR4U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anantgupta_discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Statistics:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta001&layout=conpact&locle=en" alt="anantgupta001"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta001&layout=compact&locle=en" alt="anantgupta001_languagestatas"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantgupta001&show_icons=true" alt="anantgupta001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantgupta001&show_icons=true" alt="anantgupta001_generalstats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantgupta001&" alt="anantgupta001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantgupta001&" alt="anantgupta001_streakstats" /></p>
