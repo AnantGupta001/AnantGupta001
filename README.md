@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantgupta001&label=Profile%20views&color=0e75b6&style=flat" alt="anantgupta001" /> </p>
 
 - 🌱 I’m currently learning **DSA**.
-- 
+
 - 💬 Ask me about **JAVA, Python, Html, Css**.
 
 - 📫 How to reach me **anantagarwal4946@gmail.com**.
