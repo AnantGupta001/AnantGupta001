@@ -4,17 +4,13 @@
 <img align="right" alt="programmer" width="400" src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantgupta001&label=Profile%20views&color=0e75b6&style=flat" alt="anantgupta001" /> </p>
 
-- 🔭 I’m currently working on **SDG Project**
+- 🌱 I’m currently learning **DSA**.
+- 
+- 💬 Ask me about **JAVA, Python, Html, Css**.
 
-- 👯 I’m looking to collaborate on **SDG, GSC**
+- 📫 How to reach me **anantagarwal4946@gmail.com**.
 
-- 🤝 I’m looking for help with **Backend**
-
-- 💬 Ask me about **JAVA, Python, Html, Css**
-
-- 📫 How to reach me **anantagarwal4946@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/anantgupta001](www.linkedin.com/in/anantgupta001)
+- 📄 Know about my experiences [www.linkedin.com/in/anantgupta001](www.linkedin.com/in/anantgupta001).
 
 <h3 align="left"><B>Connect with me:</B></h3>
   <p align="left">
